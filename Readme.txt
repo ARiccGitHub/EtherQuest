@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
-                                                       Etherís Quest
+                                                       Ether‚Äôs Quest
 
 Alejandro (Alex) Ricciardi
 created date: 12 / 30 / 2022
@@ -11,15 +11,15 @@ Small story-based D&D game, c++ window desktop application 64bit. Raylib library
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-Etherís Quest is a small story-based ëD&D game.í
+Ether‚Äôs Quest is a small story-based ‚ÄòD&D game.‚Äô
 The game lore is based on the Innistrad universe, and it is where Ether journeys to save his younger sister Clarabella.
 
-The game project started as a c++ console assignment for mu computer science 1 class (COS1030),
+The game project started as a c++ console assignment for my computer science 1 class (COS1030),
 which became a small game app using SFML library, and into a personal project using the Raylib library.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-Etherís Quest is a small story-based ëD&D game.í
+Ether‚Äôs Quest is a small story-based ‚ÄòD&D game.‚Äô
 The game lore is based on the Innistrad universe, and it is where Ether journeys to save his younger sister Clarabella.
 
 The game project started as a c++ console assignment for mu computer science 1 class (COS1030),
@@ -34,14 +34,14 @@ This project runs on MS Windows 10, 64bit
 
 Project description:
 
-Etherís Quest is a small story-based ìD&D gameî based on the Innistrad universe. 
+Ether‚Äôs Quest is a small story-based ‚ÄúD&D game‚Äù based on the Innistrad universe. 
 Where Ether journeys to save his younger sister Clarabella. 
 Clarabella was abducted by the evil vampire lord, Salt, 
-to be offered in sacrifice to the demon Iretrat. In exchange for Clarabellaís soul, 
-Iretrat will reanimate Pantra, Saltís lost love, using Clarabellaís blood. 
-The sacrifice must be performed on the first day of the Hunterís moon, 
+to be offered in sacrifice to the demon Iretrat. In exchange for Clarabella‚Äôs soul, 
+Iretrat will reanimate Pantra, Salt‚Äôs lost love, using Clarabella‚Äôs blood. 
+The sacrifice must be performed on the first day of the Hunter‚Äôs moon, 
 at the Skirsdag high temple located in Stensia. 
-Etherís journey to save Clarabella will start at his home in Gavony; 
+Ether‚Äôs journey to save Clarabella will start at his home in Gavony; 
 he will travel through the region of Nephalia , Kessig, and Stensia, 
 where he will encounter many dangers. Provided that he survives the journey; 
 at Skirsdag high temple, he will have to battle 
